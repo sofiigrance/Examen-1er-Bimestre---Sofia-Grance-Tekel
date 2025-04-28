@@ -17,7 +17,7 @@ public class EmpresaDeMudanzas : MonoBehaviour
 
     //Errores y cosas que faltan: Tipo auto no deberia ingresarse, solo mostrar en consola al final. 
     // 3. Procesamiento de datos
-    // 4. Salida de datos
+    // 4. Salida de datos.
     void Start()
     {
         // 2. Validación de datos
